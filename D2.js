@@ -45,6 +45,8 @@ if (numero1 + numero2 === 8) {
   Crea un algoritmo che determini l'ammontare totale che deve essere addebitato all'utente per il checkout.
 */
 
+// LO SCRIVO COME COMMENTO !!!
+
 // let totalShoppingCart = 45;
 //if (totalShoppingCart >= 50) {
 //console.log("hai diritto alla spedizione gratuita");
@@ -77,7 +79,7 @@ const cat = 5;
 const monkey = 3;
 
 if (dog < cat && monkey < cat) {
-  console.log(dog, cat, monkey);
+  console.log(dog, monkey, cat);
 }
 
 /* ESERCIZIO 8
